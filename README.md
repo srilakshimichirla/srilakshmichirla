@@ -96,7 +96,6 @@ An intelligent food recommendation application that leverages Artificial Intelli
 
 **Tech Stack:** React.js, JavaScript, Node.js, Express.js, AI APIs
 
----
 
 ## 🎯 Current Focus
 
@@ -105,7 +104,6 @@ An intelligent food recommendation application that leverages Artificial Intelli
 * Data Structures & Algorithms
 * Building Real-World Projects
 
----
 
 ## 📫 Connect with Me
 
@@ -113,6 +111,5 @@ An intelligent food recommendation application that leverages Artificial Intelli
 * 📧 Email: nagasrilakshmi923@gmail.com
 * 💻 GitHub: https://github.com/srilakshimichirla
 
----
 
 ⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
