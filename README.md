@@ -4,7 +4,6 @@
 
 I'm a Computer Science and Technology student passionate about building scalable web applications and exploring modern technologies. I enjoy turning ideas into real-world projects while continuously learning, solving problems, and improving my development skills.
 
----
 
 ## 👩‍💻 About Me
 
@@ -14,7 +13,6 @@ I'm a Computer Science and Technology student passionate about building scalable
 * 🧩 Practicing Data Structures and Algorithms
 * 🚀 Always eager to learn new technologies and build impactful projects
 
----
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +46,6 @@ I'm a Computer Science and Technology student passionate about building scalable
 * VS Code
 * Postman
 
----
 
 ## 🚀 Featured Projects
 
